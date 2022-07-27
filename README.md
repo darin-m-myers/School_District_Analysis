@@ -25,11 +25,14 @@ Table 1.1: District Summary Comparison
  
     <details><summary>Click the Arrow on the left to Expand the School Summary Tables </summary>
     <p>
-    Image 2.1: Original School Summary 
-     
     
-    Image 2.2: Adjusted School Summary
-   
+    | Image 2.1: Original School Summary |
+    | --- |
+    | <img src="/Images/School_Summary_Original.png" width="600"> |
+    
+    | Image 2.2: Adjusted School Summary |
+    | --- |
+    | <img src="/Images/School_Summary_Adjusted.png" width="600"> |
 
     </p>
     </details>
