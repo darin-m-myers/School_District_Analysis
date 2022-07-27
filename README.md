@@ -20,39 +20,45 @@ Table 1.1: District Summary Comparison
 | `% Change` | `0.0%` :ok: | `0.0%` :ok: | `0.0%` :ok: | `-0.13%` :small_red_triangle_down: | `0.0%` :ok: | `-0.27` :small_red_triangle_down: | `-0.35` :small_red_triangle_down: | `-0.15` :small_red_triangle_down: |
 
 2. How is the school summary affected?
-    * As shown in Image 2.1 and 2.2 below, in the school summary the changes only affected Thomas High School, as they were the only school with scores removed.
-    * Thomas High School overall passing scores dropped from 90.948% to 90.630% passing.
- 
-    <details><summary>Click the Arrow on the left to Expand the School Summary Tables </summary>
-    <p>
-    
-    | Image 2.1: Original School Summary |
-    | --- |
-    | <img src="/Images/School_Summary_Original.png" width="600"> |
-    
-    | Image 2.2: Adjusted School Summary |
-    | --- |
-    | <img src="/Images/School_Summary_Adjusted.png" width="600"> |
+      * As shown in Image 2.1 and 2.2 below, in the school summary the changes only affected Thomas High School, as they were the only school with scores removed.
+      * Thomas High School overall passing scores dropped from 90.948% to 90.630% passing.
+      
+ <details><summary>Click the Arrow on the left to Expand the School Summary Tables </summary>
+ <p>
 
-    </p>
-    </details>
- 
+ | Image 2.1: Original School Summary |
+ | --- |
+ | <img src="/Images/School_Summary_Original.png" width="600"> |
 
+ | Image 2.2: Adjusted School Summary |
+ | --- |
+ | <img src="/Images/School_Summary_Adjusted.png" width="600"> |
+
+ </p>
+ </details>
 
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+      * Replacing the scores made no change to THS performance related to other schools
+      * THS was the second highest school % Overall Passing and remained the second highest school after the adjustment.
+      
+<details><summary>Click the Arrow on the left to Expand the Top Schools Summary </summary>
+ <p>
+
+ | Image 3.1: Original Top School Summary |
+ | --- |
+ | <img src="/Images/Top_Schools_Original.png" width="600"> |
+
+ | Image 3.2: Adjusted Top School Summary |
+ | --- |
+ | <img src="/Images/Top_Schools_Adjusted.png" width="600"> |
+
+ </p>
+ </details>      
+ 
 
 4. How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
+   * 
   * Scores by school spending
   * Scores by school size
   * Scores by school type
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### We can hide anything, even code!
-
-Test
-
-</p>
-</details>
