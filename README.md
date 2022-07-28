@@ -1,7 +1,7 @@
 # :school: School_District_Analysis :school:
 
 ## Purpose of Analysis: 
-The City School District Board has requested analysis of the Standard Testing Scores for Math and Science across the district. They have requested multiple summaries of the data in order to plan for the coming school year. Also, there has been some evidence of academic dishonesty in the reading and math scores for Thomas High School 9th graders. The Board has requested that the scores be removed from the analysis and the summaries be adjusted to reflect the new values. This will help them make more appropriate assumptions about the schools for the decisions that they need to make for the coming year. 
+The City School District Board has requested analysis of the Standard Testing Scores for Math and Reading across the district. They have requested multiple summaries of the data in order to plan for the coming school year. Also, there has been some evidence of academic dishonesty in the reading and math scores for Thomas High School 9th graders. The Board has requested that the scores be removed from the analysis and the summaries be adjusted to reflect the new values. This will help them make more appropriate assumptions about the schools for the decisions that they need to make for the coming year. 
 
 > NOTE: In the following analysis, **Original** will refer to the data before any adjustments. **Adjusted** will refer to post removal of Thomas High School 9th grade scores, and `THS` will refer to Thomas High School.
 
@@ -12,6 +12,9 @@ The City School District Board has requested analysis of the Standard Testing Sc
     * The largest decrease was in % Passing Math, with a decrease of 0.35%, however, the % change from the adjustmes amounted to less than half a percent change to any of the metrics.
     * The remainder of the fields were not affected by the adjusted totals.
  
+ <details><summary>Click the Arrow on the left to expand the District Summary Table </summary>
+ <p>
+    
 Table 1.1: District Summary Comparison 
 | Analysis Type | Total Schools |	Total Students |	Total Budget |	Average Math Score |	Average Reading Score |	% Passing Math |	% Passing Reading |	% Overall Passing
 | ---------- | --------------: | ----------: | ----------: | ----------: | ----------: | ----------: | ----------: | ----------: |
@@ -19,11 +22,14 @@ Table 1.1: District Summary Comparison
 | Adjusted | 15 |	39,170 |	$24,649,428.00 |	78.9 |	81.9 |	74.8 |	85.7 |	64.9 |
 | `% Change` | `0.0%` :ok: | `0.0%` :ok: | `0.0%` :ok: | `-0.13%` :small_red_triangle_down: | `0.0%` :ok: | `-0.27` :small_red_triangle_down: | `-0.35` :small_red_triangle_down: | `-0.15` :small_red_triangle_down: |
 
+ </p>
+ </details>
+
 2. How is the school summary affected?
       * As shown in Image 2.1 and 2.2 below (click the arrow to uncollapse), in the school summary the changes only affected `THS`, as they were the only school with scores removed.
       * `THS` overall passing scores dropped from 90.948% to 90.630% passing.
       
- <details><summary>Click the Arrow on the left to Expand the School Summary Tables </summary>
+ <details><summary>Click the Arrow on the left to expand the School Summary Tables </summary>
  <p>
 
  | Image 2.1: Original School Summary |
@@ -41,7 +47,7 @@ Table 1.1: District Summary Comparison
       * As shown in Image, 3.1 and 3.2 below, replacing the scores made no change to `THS` performance related to other schools
       * `THS` was the second highest school % Overall Passing and remained the second highest school after the adjustment.
       
-<details><summary>Click the Arrow on the left to Expand the Top Schools Summary Tables </summary>
+<details><summary>Click the Arrow on the left to expand the Top Schools Summary Tables </summary>
  <p>
 
  | Image 3.1: Original Top School Summary |
@@ -64,7 +70,7 @@ Table 1.1: District Summary Comparison
   
       * Scores by school type - `THS` is a Charter school, so the only changes would be for Charter schools. Once again, because of the final formatting requirements, the the adjustment does not actually change the final tables. (See Image 4.9 through 4.10)
       
-<details><summary>Click the Arrow on the left to Expand the Top Schools Summary Tables </summary> (See Image 4.7 and 4.4)
+<details><summary>Click the Arrow on the left to expand the Top Schools Summary Tables </summary> (See Image 4.7 and 4.4)
  <p>
 
  | Image 4.1: Original Math Scores by Grade | Image 4.2: Adjusted Math Scores by Grade |
